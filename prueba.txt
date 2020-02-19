@@ -5,7 +5,7 @@ Agregado de esta cabecer mas bonita.
 
 Este es Diego Yon.
 
-Ingeniero Mecatronico
+Ingeniero Electronico
 
 Es Desarrollador Junior
 
@@ -26,3 +26,5 @@ inicia cabecera2
 Haciendo cambios a la cabecera para que queda mas bonita
 
 Una Linea extra despues del merge
+
+Cambio extra para ver que ondas
