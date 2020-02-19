@@ -5,7 +5,11 @@ Agregado de esta cabecer mas bonita.
 
 Este es Diego Yon.
 
+<<<<<<< HEAD
 Ingeniero Electronico
+=======
+Ingeniero Mecanico
+>>>>>>> cabecera2
 
 Es Desarrollador Junior
 
