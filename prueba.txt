@@ -30,3 +30,5 @@ Haciendo cambios a la cabecera para que queda mas bonita
 Una Linea extra despues del merge
 
 Cambio extra para ver que ondas
+
+Agregado un footer chilero
