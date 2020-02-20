@@ -1,3 +1,5 @@
+Agregado un logo de un cohete.
+
 Bienvenido a bio 2.0
 
 Esta es la cabecera y dice todo lo inicial
